@@ -69,7 +69,7 @@ Most scanners run the same checks every time. SentinelOps uses an **AI agent rou
 | Layer | Technology |
 |---|---|
 | Backend | Python, Flask, Flask-SocketIO |
-| AI Router | Ollama (`xploiter/pentester` 1.6B — runs offline, free) |
+| AI Router | Ollama |
 | Frontend | Vanilla JS, Chart.js, Socket.IO (real-time live log) |
 | Security Tools | nmap, sqlmap, nikto, nuclei, gobuster, hydra, amass, subfinder, theHarvester, sslscan, sslyze, Metasploit |
 | Reporting | HTML, PDF (ReportLab), JSON |
